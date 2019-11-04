@@ -1,0 +1,22 @@
+{
+  "name": "Hunting the Hun",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/hunting-the-hun/master/assets",
+  "book_id": 1223,
+  "book_url": "https://bubblin.io/book/hunting-the-hun-by-james-belton-and-ernest-gregory-odell"
+}
